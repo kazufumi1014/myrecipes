@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>꒰ ՞・ﻌ・՞ ꒱ cooking note 📖</title>
-    <link>http://localhost:52631/</link>
+    <link>https://example.org/</link>
     <description>Recent content on ꒰ ՞・ﻌ・՞ ꒱ cooking note 📖</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52631/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>꒰ ՞・ﻌ・՞ ꒱のビーフシチュー</title>
-      <link>http://localhost:52631/blog/beefstew/</link>
+      <link>https://example.org/blog/beefstew/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52631/blog/beefstew/</guid>
+      <guid>https://example.org/blog/beefstew/</guid>
       <description>&lt;h1 id=&#34;材料&#34;&gt;材料&lt;/h1&gt;&#xA;&lt;p&gt;明日書けばいいか&lt;/p&gt;&#xA;&lt;h1 id=&#34;作り方&#34;&gt;作り方&lt;/h1&gt;&#xA;&lt;p&gt;明日書けばいいか&lt;/p&gt;</description>
     </item>
   </channel>
