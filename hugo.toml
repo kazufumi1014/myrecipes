@@ -4,3 +4,4 @@ title = '꒰ ՞・ﻌ・՞ ꒱ cooking note 📖'
 theme = 'hugo-bearblog'
 [params]
   favicon = "images/favicon_inu.ico"
+  apple_touch_icon = "images/apple-touch-icon.png"
