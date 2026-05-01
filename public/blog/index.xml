@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on ꒰ ՞・ﻌ・՞ ꒱ cooking note 📖</title>
-    <link>https://kazufumi1014.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on ꒰ ՞・ﻌ・՞ ꒱ cooking note 📖</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kazufumi1014.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>むちゃうますき焼き</title>
-      <link>https://kazufumi1014.github.io/blog/sukiyaki/</link>
+      <link>http://localhost:1313/blog/sukiyaki/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://kazufumi1014.github.io/blog/sukiyaki/</guid>
+      <guid>http://localhost:1313/blog/sukiyaki/</guid>
       <description>&lt;h1 id=&#34;材料&#34;&gt;材料&lt;/h1&gt;&#xA;&lt;h2 id=&#34;牛肉&#34;&gt;牛肉&lt;/h2&gt;&#xA;&lt;h1 id=&#34;作り方&#34;&gt;作り方&lt;/h1&gt;&#xA;&lt;p&gt;いつか書く&lt;/p&gt;</description>
     </item>
     <item>
       <title>むちゃうまからあげ</title>
-      <link>https://kazufumi1014.github.io/blog/karaage/</link>
+      <link>http://localhost:1313/blog/karaage/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://kazufumi1014.github.io/blog/karaage/</guid>
+      <guid>http://localhost:1313/blog/karaage/</guid>
       <description>&lt;h1 id=&#34;材料&#34;&gt;材料&lt;/h1&gt;&#xA;&lt;h1 id=&#34;作り方&#34;&gt;作り方&lt;/h1&gt;&#xA;&lt;p&gt;いつか書く&lt;/p&gt;</description>
     </item>
     <item>
       <title>むちゃうまタコス</title>
-      <link>https://kazufumi1014.github.io/blog/tacos/</link>
+      <link>http://localhost:1313/blog/tacos/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://kazufumi1014.github.io/blog/tacos/</guid>
+      <guid>http://localhost:1313/blog/tacos/</guid>
       <description>&lt;h1 id=&#34;材料&#34;&gt;材料&lt;/h1&gt;&#xA;&lt;h2 id=&#34;トルティーヤ&#34;&gt;トルティーヤ&lt;/h2&gt;&#xA;&lt;h2 id=&#34;サルサメヒカーナ&#34;&gt;サルサ（メヒカーナ）&lt;/h2&gt;&#xA;&lt;h2 id=&#34;サルサヴェルデ&#34;&gt;サルサ(ヴェルデ)&lt;/h2&gt;&#xA;&lt;h1 id=&#34;作り方&#34;&gt;作り方&lt;/h1&gt;&#xA;&lt;p&gt;いつか書く&lt;/p&gt;</description>
     </item>
     <item>
       <title>むちゃうまチャーシュー</title>
-      <link>https://kazufumi1014.github.io/blog/chashu/</link>
+      <link>http://localhost:1313/blog/chashu/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://kazufumi1014.github.io/blog/chashu/</guid>
+      <guid>http://localhost:1313/blog/chashu/</guid>
       <description>&lt;h1 id=&#34;材料&#34;&gt;材料&lt;/h1&gt;&#xA;&lt;p&gt;6食分&lt;/p&gt;&#xA;&lt;h2 id=&#34;チャーシュー&#34;&gt;チャーシュー&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;豚肩ロース&#xA;&lt;ul&gt;&#xA;&lt;li&gt;600g&lt;/li&gt;&#xA;&lt;li&gt;豚バラは脂っこいので&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;生姜&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2mmスライスを5切れぐらい&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;長ネギ&#xA;&lt;ul&gt;&#xA;&lt;li&gt;青い部分一本分&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;安いパック日本酒&#xA;&lt;ul&gt;&#xA;&lt;li&gt;200ml&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;たれ&#34;&gt;たれ&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;安いパック日本酒&#xA;&lt;ul&gt;&#xA;&lt;li&gt;100ml&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;みりん&#xA;&lt;ul&gt;&#xA;&lt;li&gt;100ml&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;キッコーマンの醤油&#xA;&lt;ul&gt;&#xA;&lt;li&gt;200ml&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;砂糖orザラメ&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ちょうどいい甘さになるまで&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;にんにく&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1かけら&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;長ネギ&#xA;&lt;ul&gt;&#xA;&lt;li&gt;青い部分一本分&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;生姜&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2mmスライスを5切れぐらい&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;作り方&#34;&gt;作り方&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;肉を15分程度弱火で下茹でし、茹で汁は捨てる&lt;/li&gt;&#xA;&lt;li&gt;肉にフォークで穴を空け、ジップロックに入れておく&lt;/li&gt;&#xA;&lt;li&gt;たれの材料のうち、みりんと日本酒を火にかけ、アルコールを飛ばす&lt;/li&gt;&#xA;&lt;li&gt;砂糖以外の残りの材料も入れ、弱中火で沸騰させる&lt;/li&gt;&#xA;&lt;li&gt;砂糖を味見しながら入れ、溶かす&lt;/li&gt;&#xA;&lt;li&gt;ジップロックにたれを注ぐ&lt;/li&gt;&#xA;&lt;li&gt;低温調理する( 64.5℃, 4時間)&lt;/li&gt;&#xA;&lt;li&gt;肉の繊維を断ち切るようにスライスとかする&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>むちゃうまビーフシチュー</title>
-      <link>https://kazufumi1014.github.io/blog/beefstew/</link>
+      <link>http://localhost:1313/blog/beefstew/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://kazufumi1014.github.io/blog/beefstew/</guid>
+      <guid>http://localhost:1313/blog/beefstew/</guid>
       <description>&lt;h1 id=&#34;材料&#34;&gt;材料&lt;/h1&gt;&#xA;&lt;p&gt;6食分&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;オージー牛肩ロース&#xA;&lt;ul&gt;&#xA;&lt;li&gt;720g&lt;/li&gt;&#xA;&lt;li&gt;国産だと高いのでオージー一択になる。ブロック肉推奨。 牛すじは肉感がなく、スネ肉は血の味が濃い気がするので肩ロースが最強だと思います。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;玉ねぎ&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2個&lt;/li&gt;&#xA;&lt;li&gt;多めが好き&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;にんにく&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2かけら&lt;/li&gt;&#xA;&lt;li&gt;適当&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;トマト&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3個&lt;/li&gt;&#xA;&lt;li&gt;トマト缶よりうまい気がする。あと湯むきした方が食感いいです。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;マッシュルーム&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2パック&lt;/li&gt;&#xA;&lt;li&gt;昔は他のキノコを使っていたが、キノコくさい点と見た目が悪い点が気になったためマッシュルームだけにした。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;セロリ&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1つ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;バター&#xA;&lt;ul&gt;&#xA;&lt;li&gt;20g&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;ハインツの特上デミ缶&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1つ&lt;/li&gt;&#xA;&lt;li&gt;普通のやつよりこっち&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;ブルドッグのウスターソース&#xA;&lt;ul&gt;&#xA;&lt;li&gt;適量&lt;/li&gt;&#xA;&lt;li&gt;今度ちゃんと量ります&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;キッコーマンの醤油&#xA;&lt;ul&gt;&#xA;&lt;li&gt;適量&lt;/li&gt;&#xA;&lt;li&gt;今度ちゃんと量ります&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;タリーズのはちみつ&#xA;&lt;ul&gt;&#xA;&lt;li&gt;適量&lt;/li&gt;&#xA;&lt;li&gt;今度ちゃんと量ります&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;アルパカ赤ワイン&#xA;&lt;ul&gt;&#xA;&lt;li&gt;200ccぐらい&lt;/li&gt;&#xA;&lt;li&gt;タンニンと渋みが濃いやつ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;作り方&#34;&gt;作り方&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;肉に塩胡椒をする。&lt;/li&gt;&#xA;&lt;li&gt;肉を中火~強火で焦げ目がつくまでソテーする。&lt;/li&gt;&#xA;&lt;li&gt;肉を取り出し(中は生でもOK)、4~6cm程度のサイコロ状に切り分ける。&lt;/li&gt;&#xA;&lt;li&gt;肉をジップロックに入れ、ワインを注いで振ったあと、30分ほど寝かせる。&lt;/li&gt;&#xA;&lt;li&gt;肉を焼いた鍋を傾けて脂を集め、拭き取る。&lt;/li&gt;&#xA;&lt;li&gt;玉ねぎをスライスにする。ちょっとニュアンスを残すために繊維に沿って切る。&lt;/li&gt;&#xA;&lt;li&gt;バターを20g入れ、玉ねぎをきつね色になるまで炒める。&lt;/li&gt;&#xA;&lt;li&gt;肉（ワインごと）、にんにく、マッシュルーム、トマト、セロリ、セロリの葉っぱの順に鍋に加え、全体が浸かるよりやや少ないぐらい水を加えて蓋をして1時間弱火で煮る。&lt;/li&gt;&#xA;&lt;li&gt;煮ている間、水分量を維持するため、適宜水を加える。&lt;/li&gt;&#xA;&lt;li&gt;セロリの葉を取り除き、デミ缶を加え、ウスターソースと醤油も加える。&lt;/li&gt;&#xA;&lt;li&gt;3時間煮込んで水分を飛ばし、ドロドロにする。&lt;/li&gt;&#xA;&lt;li&gt;はちみつを入れて馴染ませる。&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
